@@ -1,0 +1,3 @@
+#define BUZZER_DDR DDRB
+#define BUZZER_PORT PORTB
+#define BUZZER 0
